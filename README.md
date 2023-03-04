@@ -1,1 +1,1 @@
-# CSC591-QC
+# CSC591 Quantum Computing
